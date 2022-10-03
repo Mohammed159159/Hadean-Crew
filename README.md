@@ -4,6 +4,9 @@ A Flutter application made for telling the story of the probe that touched the s
 
 **Note**: This README file was created to _facilitate_ viewing the animation and script work. However, the application includes all what is in the README.
 
+## Trailer
+[![Watch the video](https://img.youtube.com/vi/v4TL0zOVxVc/hqdefault.jpg)](https://youtu.be/v4TL0zOVxVc)
+
 ## App Demo
 [![Watch the video](https://img.youtube.com/vi/WVcwa297grQ/maxresdefault.jpg)](https://youtu.be/WVcwa297grQ)
 
